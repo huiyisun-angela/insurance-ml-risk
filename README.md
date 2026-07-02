@@ -1,15 +1,28 @@
-# Optimizing Insurance Risk via Machine Learning
+# Insurance Risk Classification
 
-Machine learning project analyzing insurance risk using patient health and demographic data.
+Machine learning project to classify insurance risk using patient health and demographic data, with a focus on feature engineering, model evaluation, and risk segmentation.
 
 ## Contents
 
-- [`presentation/Optimizing Insurance Risk via Machine Learning.pdf`](presentation/Optimizing%20Insurance%20Risk%20via%20Machine%20Learning.pdf) — project presentation
+### Notebooks
+
+- [`regression-final.ipynb`](regression-final.ipynb) — regression modeling and analysis
+- [`multiple-classification-model.ipynb`](multiple-classification-model.ipynb) — multi-class classification model development
+
+### Data & Outputs
+
+- [`final_predictions.csv`](final_predictions.csv) — model prediction outputs
+
+### Presentation
+
+- [`presentation/Optimizing Insurance Risk via Machine Learning.pdf`](presentation/Optimizing%20Insurance%20Risk%20via%20Machine%20Learning.pdf) — project presentation deck
 
 ## Tech Stack
 
-- Python (code coming soon)
-- Machine learning / classification models
+- Python
+- Scikit-learn
+- Classification & regression models
+- Feature engineering
 
 ## Author
 
